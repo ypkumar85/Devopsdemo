@@ -4,7 +4,7 @@ name: Deploy git woflow
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
